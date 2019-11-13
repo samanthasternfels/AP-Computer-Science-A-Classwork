@@ -19,7 +19,7 @@ public class book
     {
         author = a;
     }
-     public void setPageNumbers(int pgnm)
+     public void setPageNumber(int pgnm)
     {
         pageNumber = pgnm;
     }
